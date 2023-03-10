@@ -1,1 +1,1 @@
-
+game.gameOver(true)
